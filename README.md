@@ -1,4 +1,4 @@
-<!-- ═══════════════════════ ANIMATED PROFILE HEADER ═══════════════════════ -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:2563EB,100:8B5CF6&height=230&section=header&text=YOUGESH%20KUMAR&fontSize=46&fontColor=FFFFFF&fontAlignY=39&animation=fadeIn&desc=Aspiring%20Software%20Engineer&descAlignY=60&descSize=20&descColor=E0EAFF" width="100%" alt="Yougesh Kumar — Aspiring Software Engineer" />
 
